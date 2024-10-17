@@ -3,7 +3,7 @@
 This project uses machine learning techniques to detect fraudulent credit card transactions.
 
 ## Dataset
-The dataset used is `creditcard.csv`, containing anonymized transaction data.
+The dataset used is `creditcard.csv`, containing anonymized transaction data. link to the original datset https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Models Used
 - XGBoost Classifier
